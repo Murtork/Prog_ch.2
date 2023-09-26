@@ -1,0 +1,12 @@
+C:\Users\eab80\Downloads\MyLibrary1\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\MyLibrary1\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\DominoLib.csprojAssemblyReference.cache
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\DominoLib.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\Прог часть 2\MyLibrary1\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\Прог часть 2\MyLibrary1\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\Прог часть 2\MyLibrary1\obj\Debug\DominoLib.csproj.AssemblyReference.cache
+C:\Users\eab80\Downloads\Прог часть 2\MyLibrary1\obj\Debug\DominoLib.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\Прог часть 2\MyLibrary1\obj\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\Прог часть 2\MyLibrary1\obj\Debug\MyLibrary1.pdb

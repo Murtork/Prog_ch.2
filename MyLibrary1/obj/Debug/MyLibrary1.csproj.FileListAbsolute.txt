@@ -1,0 +1,12 @@
+E:\Программирование Часть 2\MyLibrary1\bin\Debug\MyLibrary1.dll
+E:\Программирование Часть 2\MyLibrary1\bin\Debug\MyLibrary1.pdb
+E:\Программирование Часть 2\MyLibrary1\obj\Debug\MyLibrary1.csproj.AssemblyReference.cache
+E:\Программирование Часть 2\MyLibrary1\obj\Debug\MyLibrary1.csproj.CoreCompileInputs.cache
+E:\Программирование Часть 2\MyLibrary1\obj\Debug\MyLibrary1.dll
+E:\Программирование Часть 2\MyLibrary1\obj\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\MyLibrary1\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\MyLibrary1\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\MyLibrary1.csprojAssemblyReference.cache
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\MyLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\MyLibrary1\obj\Debug\MyLibrary1.pdb
