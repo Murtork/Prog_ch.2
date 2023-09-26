@@ -1,0 +1,40 @@
+E:\Программирование Часть 2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe.config
+E:\Программирование Часть 2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe
+E:\Программирование Часть 2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.pdb
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.AssemblyReference.cache
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.SuggestedBindingRedirects.cache
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Form1.resources
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Properties.Resources.resources
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.GenerateResource.cache
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CoreCompileInputs.cache
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.exe
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.pdb
+E:\Программирование Часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CopyComplete
+E:\Программирование Часть 2\Lab1 Bobrov\bin\Debug\MyLibrary1.dll
+E:\Программирование Часть 2\Lab1 Bobrov\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe.config
+C:\Users\eab80\Downloads\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe
+C:\Users\eab80\Downloads\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.pdb
+C:\Users\eab80\Downloads\Lab1 Bobrov\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\Lab1 Bobrov\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csprojAssemblyReference.cache
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Form1.resources
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Properties.Resources.resources
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.GenerateResource.cache
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CopyComplete
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.exe
+C:\Users\eab80\Downloads\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.pdb
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe.config
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.pdb
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.AssemblyReference.cache
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Form1.resources
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Properties.Resources.resources
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.GenerateResource.cache
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CopyComplete
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.exe
+C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.pdb
