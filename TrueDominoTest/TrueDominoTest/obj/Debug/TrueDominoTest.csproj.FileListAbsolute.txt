@@ -1,0 +1,38 @@
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\TrueDominoTest.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\TrueDominoTest.pdb
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eab80\Downloads\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eab80\Downloads\TrueDominoTest\obj\Debug\TrueDominoTest.csprojAssemblyReference.cache
+C:\Users\eab80\Downloads\TrueDominoTest\obj\Debug\TrueDominoTest.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\TrueDominoTest\obj\Debug\TrueDominoTest.csproj.CopyComplete
+C:\Users\eab80\Downloads\TrueDominoTest\obj\Debug\TrueDominoTest.dll
+C:\Users\eab80\Downloads\TrueDominoTest\obj\Debug\TrueDominoTest.pdb
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\TrueDominoTest.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\TrueDominoTest.pdb
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\MyLibrary1.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\MyLibrary1.pdb
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\obj\Debug\TrueDominoTest.csproj.AssemblyReference.cache
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\obj\Debug\TrueDominoTest.csproj.CoreCompileInputs.cache
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\obj\Debug\TrueDominoTest.csproj.CopyComplete
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\obj\Debug\TrueDominoTest.dll
+C:\Users\eab80\Downloads\Прог часть 2\TrueDominoTest\obj\Debug\TrueDominoTest.pdb
