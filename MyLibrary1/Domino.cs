@@ -14,7 +14,7 @@ namespace MyProj
             get { return _edge1;  } 
             set { if (value > 0 && value < 7) _edge1 = value; } 
         }
-        public int _edge2;
+        private int _edge2;
         public int edge2
         {
             get { return _edge2; }

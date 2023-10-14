@@ -38,3 +38,17 @@ C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov
 C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CopyComplete
 C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.exe
 C:\Users\eab80\Downloads\Прог часть 2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.pdb
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe.config
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.exe
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\bin\Debug\Lab1 Bobrov.pdb
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\bin\Debug\MyLibrary1.dll
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\bin\Debug\MyLibrary1.pdb
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.AssemblyReference.cache
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.SuggestedBindingRedirects.cache
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Form1.resources
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1_Bobrov.Properties.Resources.resources
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.GenerateResource.cache
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CoreCompileInputs.cache
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.csproj.CopyComplete
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.exe
+C:\Users\egor2\Documents\GitHub\Prog_ch.2\Lab1 Bobrov\obj\Debug\Lab1 Bobrov.pdb
