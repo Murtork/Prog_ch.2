@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="376" Width="588">
+    <Grid x:Name="MainRoot" Margin="0,0,0,0" Background="Gray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Button_SetDom2" Content="Домино2" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Click="Button_SetDom2_Click" Height="20" Width="66" Grid.Column="1" Grid.Row="3"/>
+
+        <Button x:Name="Button_SetDom1" Content="Домино1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="Button_SetDom1_Click" Height="20" Width="66" Grid.Column="1" Grid.Row="3"/>
+        <Label x:Name="znach" Content="Значения:" HorizontalAlignment="Right" Margin="0,15,15,0" VerticalAlignment="Top" Height="26" Width="65"/>
+        <Label x:Name="znach1" Content="1 домино" HorizontalAlignment="Left" Margin="0,2,0,0" VerticalAlignment="Top" Height="26" Width="63" Grid.Column="1"/>
+        <Label x:Name="znach2" Content="2 домино" HorizontalAlignment="Left" Margin="73,2,0,0" VerticalAlignment="Top" Height="26" Width="62" Grid.Column="1"/>
+        <Label x:Name="label_first" Content="знач_1" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Height="26" Width="42" Grid.Column="1"/>
+        <Label x:Name="label_second" Content="знач_2" HorizontalAlignment="Left" Margin="73,0,0,0" VerticalAlignment="Center" Height="26" Width="42" Grid.Column="1"/>
+        <Label x:Name="label" Content="Установить рандомно:" HorizontalAlignment="Left" Margin="10,30,0,0" Grid.Row="3" VerticalAlignment="Top"/>
+        <Label x:Name="label_info" HorizontalAlignment="Left" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="266" Height="26" Grid.Column="2" Content="Ручная установка значений домино (от 1 до 6)" Margin="15,15,0,0"/>
+        <TextBox x:Name="TextBox1" TextWrapping="Wrap" Margin="40,50,50,15" Grid.Column="2"/>
+        <TextBox x:Name="TextBox2" TextWrapping="Wrap" Margin="10,50,80,15" Grid.Column="3"/>
+        <Button x:Name="Button_HandSet2" Content="Домино2" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Click="Button_HandSet2_Click" Height="20" Width="66" Grid.Column="3" Grid.Row="1"/>
+        <Button x:Name="Button_HandSet1" Content="Домино1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Click="Button_HandSet1_Click" Height="20" Width="66" Grid.Column="3" Grid.Row="1"/>
+        <Label x:Name="label_Copy" Grid.Column="2" Content="Установить вручную:" HorizontalAlignment="Left" Margin="10,30,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label x:Name="Label_Result_Text" Content="Результат операции" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1"/>
+        <Button x:Name="button" Grid.Column="2" Content="Проверить ход" HorizontalAlignment="Left" Margin="40,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="97" Click="buttonResult_Click"/>
+        <Label x:Name="Label_Final_Result" Grid.Column="2" Content="Результат хода" HorizontalAlignment="Left" Margin="10,30,0,0" Grid.Row="3" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
