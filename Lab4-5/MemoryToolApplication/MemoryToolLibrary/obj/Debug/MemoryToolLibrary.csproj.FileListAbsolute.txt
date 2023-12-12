@@ -1,0 +1,6 @@
+D:\Скаченные файлы\MemoryToolApplication (1)\MemoryToolApplication\MemoryToolLibrary\bin\Debug\MemoryToolLibrary.dll
+D:\Скаченные файлы\MemoryToolApplication (1)\MemoryToolApplication\MemoryToolLibrary\bin\Debug\MemoryToolLibrary.pdb
+D:\Скаченные файлы\MemoryToolApplication (1)\MemoryToolApplication\MemoryToolLibrary\obj\Debug\MemoryToolLibrary.csproj.AssemblyReference.cache
+D:\Скаченные файлы\MemoryToolApplication (1)\MemoryToolApplication\MemoryToolLibrary\obj\Debug\MemoryToolLibrary.csproj.CoreCompileInputs.cache
+D:\Скаченные файлы\MemoryToolApplication (1)\MemoryToolApplication\MemoryToolLibrary\obj\Debug\MemoryToolLibrary.dll
+D:\Скаченные файлы\MemoryToolApplication (1)\MemoryToolApplication\MemoryToolLibrary\obj\Debug\MemoryToolLibrary.pdb

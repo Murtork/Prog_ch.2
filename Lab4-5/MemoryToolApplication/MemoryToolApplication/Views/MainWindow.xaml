@@ -1,0 +1,100 @@
+﻿<Window x:Class="MemoryToolApplication.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:extwpf="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:MemoryToolApplication.Views"
+        mc:Ignorable="d"
+        Title="Окно приложения тренировки памяти" 
+        Closed="Window_Closed"
+        Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Menu>
+            <MenuItem Header="Настройки">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Длительность отображения картинок, с"
+                               VerticalAlignment="Center"/>
+                    <extwpf:IntegerUpDown Minimum="5" Maximum="10"
+                                          Value="{Binding ShowDuration}"
+                                          Height="30" Width="100"/>
+                </StackPanel>
+            </MenuItem>
+        </Menu>
+
+        <Grid Grid.Row="1"
+          HorizontalAlignment="Center">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Orientation="Horizontal"
+                        HorizontalAlignment="Center"
+                        Grid.Row="0" Grid.Column="0">
+                <TextBlock Text="Кол-во отображаемых картинок"
+                           Height="30"
+                           Margin="5"/>
+                <extwpf:IntegerUpDown Value="{Binding ImagesCount}" Minimum="1" Maximum="10" Increment="1"
+                                      Width="100" Height="30"
+                                      Name="ImagesCountUpDown"
+                                      Margin="5"/>
+            </StackPanel>
+
+            <Button Width="100" Height="30"
+                    Content="Новые картинки"
+                    Margin="5"
+                    Grid.Row="0" Grid.Column="1"
+                    Click="OnShowButtonClick"
+                    ToolTip="Показать случайные изображения"
+                    Command="{Binding CmdShowImages}"
+                    CommandParameter="{Binding ElementName=PicturesPanel}"/>
+
+            <Button Width="100" Height="30"
+                    Content="Начать тест"
+                    Margin="5"
+                    Grid.Row="0" Grid.Column="2"
+                    Click="OnTestButtonClick"
+                    Name="StartTestButton"
+                    IsEnabled="False"
+                    ToolTip="Выбрать изображения из совокупности"
+                    Command="{Binding CmdStartTest}"
+                    CommandParameter="{Binding ElementName=PicturesPanel}"/>
+
+            <Button Width="100" Height="30"
+                    Visibility="Collapsed"
+                    Content="Завершить тест"
+                    Click="OnTestButtonClick"
+                    Name="FinishTestButton"
+                    Margin="5"
+                    Grid.Row="0" Grid.Column="2"
+                    ToolTip="Завершить выбор изображений и проверить правильность выбора"
+                    Command="{Binding CmdFinishTest}"/>
+
+            <TextBlock Name="InfoTextBlock"
+                       Height="30" 
+                       Grid.Row="1" Grid.ColumnSpan="3"/>
+        </Grid>
+
+        <ScrollViewer Grid.Row="0">
+            <Grid Name="PicturesPanel"
+                  Background="Azure"
+                  SizeChanged="OnSizeChanged"
+                  Margin="5"/>
+        </ScrollViewer>
+
+    </Grid>
+</Window>

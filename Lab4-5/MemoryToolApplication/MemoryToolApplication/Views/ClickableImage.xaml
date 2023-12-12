@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="MemoryToolApplication.Views.ClickableImage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MemoryToolApplication.Views"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d"
+             Width="{Binding ControlWidth}" 
+             Height="{Binding ControlHeight}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <CheckBox IsChecked="{Binding IsChecked}"
+                  IsEnabled="{Binding IsEnabled}"
+                  Name="SelectCheckBox"
+                  HorizontalAlignment="Center" VerticalAlignment="Center"
+                  Grid.Row="0" Grid.Column="0"
+                  Width="20" Height="20"/>
+        <TextBlock Text="{Binding InfoText}"
+                   Height="22"
+                   Grid.Row="0" Grid.Column="1"
+                   VerticalAlignment="Center"/>
+        <Image Source="{Binding Image}"
+               Width="{Binding ImageWidth}"
+               Height="{Binding ImageHeight}"
+               Grid.Row="1" Grid.Column="1"/>
+    </Grid>
+</UserControl>
